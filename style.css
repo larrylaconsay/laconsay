@@ -1,0 +1,31 @@
+.bg-theme {
+	background-color: #375a7f;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #375a7f;
+  color: white;
+}
+.fa-linkedin {
+  background: #375a7f;
+  color: white;
+}
+.fa-instagram {
+  background: #375a7f;
+  color: white;
+}
+.bk {
+    width: 50px
+}
